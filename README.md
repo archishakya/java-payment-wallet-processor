@@ -1,6 +1,6 @@
 # Idempotent Payment/Wallet Event Processor
 
-Java 17 + Spring Boot 3.2 + H2 (in-memory).
+
 
 ## Run the tests (this is how the reviewer will evaluate it)
 
